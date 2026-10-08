@@ -7,27 +7,27 @@ Atlético de Madrid -> atletico_de_madrid.png
 Sevilla -> sevilla.png
 Valencia -> valencia.png
 Athletic Club -> Athletic_Club.png
-Real Zaragoza -> real-zaragoza.png
-Deportivo La Coruña -> deportivo-la-coruna.png
-Sporting de Gijón -> sporting-de-gijon.png
-Racing de Santander -> racing-de-santander.png
+Real Zaragoza -> real_zaragoza.png
+Deportivo La Coruña -> deportivo_la_coruna.png
+Sporting de Gijón -> sporting_de_gijon.png
+Racing de Santander -> racing_de_santander.png
 Cádiz -> cadiz.png
 Málaga -> malaga.png
-Manchester City -> manchester-city.png
+Manchester City -> manchester_city.png
 Liverpool -> liverpool.png
 Arsenal -> arsenal.png
 Chelsea -> chelsea.png
-Manchester United -> manchester-united.png
+Manchester United -> manchester_united.png
 Tottenham -> tottenham.png
-Norwich City -> norwich-city.png
-Leicester City -> leicester-city.png
+Norwich City -> norwich_city.png
+Leicester City -> leicester_city.png
 Southampton -> southampton.png
-Sheffield United -> sheffield-united.png
-West Bromwich Albion -> west-bromwich-albion.png
+Sheffield United -> sheffield_united.png
+West Bromwich Albion -> west_bromwich_albion.png
 Middlesbrough -> middlesbrough.png
 Juventus -> juventus.png
 Inter -> inter.png
-AC Milan -> ac-milan.png
+AC Milan -> ac_milan.png
 Napoli -> napoli.png
 Roma -> roma.png
 Lazio -> lazio.png
@@ -37,187 +37,187 @@ Bari -> bari.png
 Spezia -> spezia.png
 Cesena -> cesena.png
 Modena -> modena.png
-Bayern Múnich -> bayern-munich.png
-Borussia Dortmund -> borussia-dortmund.png
-Bayer Leverkusen -> bayer-leverkusen.png
-RB Leipzig -> rb-leipzig.png
-Eintracht Fráncfort -> eintracht-francfort.png
-VfB Stuttgart -> vfb-stuttgart.png
-Schalke 04 -> schalke-04.png
-Hertha BSC -> hertha-bsc.png
-1. FC Núremberg -> 1-fc-nuremberg.png
-Fortuna Düsseldorf -> fortuna-dusseldorf.png
+Bayern Múnich -> bayern_munich.png
+Borussia Dortmund -> borussia_dortmund.png
+Bayer Leverkusen -> bayer_leverkusen.png
+RB Leipzig -> rb_leipzig.png
+Eintracht Fráncfort -> eintracht_francfort.png
+VfB Stuttgart -> vfb_stuttgart.png
+Schalke 04 -> schalke_04.png
+Hertha BSC -> hertha_bsc.png
+1. FC Núremberg -> 1_fc_nuremberg.png
+Fortuna Düsseldorf -> fortuna_dusseldorf.png
 Kaiserslautern -> kaiserslautern.png
-Paris Saint-Germain -> paris-saint-germain.png
-Olympique de Marsella -> olympique-de-marsella.png
-Olympique de Lyon -> olympique-de-lyon.png
-AS Mónaco -> as-monaco.png
+Paris Saint-Germain -> psg.png
+Olympique de Marsella -> olympique_de_marsella.png
+Olympique de Lyon -> olympique_de_lyon.png
+AS Mónaco -> as_monaco.png
 Lille -> lille.png
 Niza -> niza.png
-Saint-Étienne -> saint-etienne.png
+Saint-Étienne -> saint_etienne.png
 Guingamp -> guingamp.png
 Caen -> caen.png
 Amiens -> amiens.png
-Atlético Nacional -> atletico-nacional.png
+Atlético Nacional -> atletico_nacional.png
 Millonarios -> millonarios.png
-América de Cali -> america-de-cali.png
-Junior de Barranquilla -> junior-de-barranquilla.png
-Deportivo Cali -> deportivo-cali.png
-Independiente Santa Fe -> independiente-santa-fe.png
-Independiente Medellín -> independiente-medellin.png
-Atlético Huila -> atletico-huila.png
-Cúcuta Deportivo -> cucuta-deportivo.png
-Deportes Quindío -> deportes-quindio.png
-Boca Juniors de Cali -> boca-juniors-de-cali.png
-Boca Juniors -> boca-juniors.png
-River Plate -> river-plate.png
-Racing Club -> racing-club.png
+América de Cali -> america_cali.png
+Junior de Barranquilla -> junior_barranquilla.png
+Deportivo Cali -> deportivo_cali.png
+Independiente Santa Fe -> independiente_santa_fe.png
+Independiente Medellín -> independiente_medellin.png
+Atlético Huila -> atletico_huila.png
+Cúcuta Deportivo -> cucuta_deportivo.png
+Deportes Quindío -> deportes_quindio.png
+Boca Juniors de Cali -> boca_juniors_de_cali.png
+Boca Juniors -> boca_juniors.png
+River Plate -> river_plate.png
+Racing Club -> racing_club.png
 Independiente -> independiente.png
-San Lorenzo -> san-lorenzo.png
+San Lorenzo -> san_lorenzo.png
 Estudiantes -> estudiantes.png
 Quilmes -> quilmes.png
-Ferro Carril Oeste -> ferro-carril-oeste.png
+Ferro Carril Oeste -> ferro_carril_oeste.png
 Atlanta -> atlanta.png
-Chacarita Juniors -> chacarita-juniors.png
+Chacarita Juniors -> chacarita_juniors.png
 Flamengo -> flamengo.png
 Palmeiras -> palmeiras.png
 Corinthians -> corinthians.png
-São Paulo -> sao-paulo.png
-Santos -> santos.png
+São Paulo -> sao_paulo.png
+Santos -> santos_fc.png
 Fluminense -> fluminense.png
-Sport Recife -> sport-recife.png
+Sport Recife -> recife.png
 Náutico -> nautico.png
 Avaí -> avai.png
 Chapecoense -> chapecoense.png
-Ponte Preta -> ponte-preta.png
+Ponte Preta -> ponte_preta.png
 Benfica -> benfica.png
-FC Porto -> fc-porto.png
-Sporting CP -> sporting-cp.png
+FC Porto -> fc_porto.png
+Sporting CP -> sporting_cp.png
 Ajax -> ajax.png
-PSV Eindhoven -> psv-eindhoven.png
+PSV Eindhoven -> psv_eindhoven.png
 Feyenoord -> feyenoord.png
 Celtic -> celtic.png
 Rangers -> rangers.png
 Galatasaray -> galatasaray.png
 Fenerbahçe -> fenerbahce.png
 Beşiktaş -> besiktas.png
-Club Brugge -> club-brugge.png
+Club Brugge -> club_brugge.png
 Anderlecht -> anderlecht.png
-Shakhtar Donetsk -> shakhtar-donetsk.png
+Shakhtar Donetsk -> shakhtar_donetsk.png
 Peñarol -> penarol.png
-Nacional de Montevideo -> nacional-de-montevideo.png
-Colo-Colo -> colo-colo.png
-Universidad de Chile -> universidad-de-chile.png
-Universidad Católica -> universidad-catolica.png
+Nacional de Montevideo -> nacional_uru.png
+Colo-Colo -> colo_colo.png
+Universidad de Chile -> universidad_de_chile.png
+Universidad Católica -> universidad_catolica.png
 Olimpia -> olimpia.png
-Cerro Porteño -> cerro-porteno.png
-LDU Quito -> ldu-quito.png
-Barcelona SC -> barcelona-sc.png
-Independiente del Valle -> independiente-del-valle.png
+Cerro Porteño -> cerro_porteno.png
+LDU Quito -> ldu_quito.png
+Barcelona SC -> barcelona_sc.png
+Independiente del Valle -> independiente_del_valle.png
 Universitario -> universitario.png
-Alianza Lima -> alianza-lima.png
-Sporting Cristal -> sporting-cristal.png
+Alianza Lima -> alianza_lima.png
+Sporting Cristal -> sporting_cristal.png
 Bolívar -> bolivar.png
-The Strongest -> the-strongest.png
-Caracas FC -> caracas-fc.png
-Deportivo Táchira -> deportivo-tachira.png
-Club América -> club-america.png
-Chivas de Guadalajara -> chivas-de-guadalajara.png
-Cruz Azul -> cruz-azul.png
-Pumas UNAM -> pumas-unam.png
-Tigres UANL -> tigres-uanl.png
+The Strongest -> the_strongest.png
+Caracas FC -> caracas_fc.png
+Deportivo Táchira -> deportivo_tachira.png
+Club América -> club_america.png
+Chivas de Guadalajara -> chivas_de_guadalajara.png
+Cruz Azul -> cruz_azul.png
+Pumas UNAM -> pumas_unam.png
+Tigres UANL -> tigres_uanl.png
 Monterrey -> monterrey.png
 Toluca -> toluca.png
-Santos Laguna -> santos-laguna.png
+Santos Laguna -> santos_laguna.png
 León -> leon.png
 Pachuca -> pachuca.png
-LA Galaxy -> la-galaxy.png
-Los Angeles FC -> los-angeles-fc.png
-Inter Miami -> inter-miami.png
-Seattle Sounders -> seattle-sounders.png
-Atlanta United -> atlanta-united.png
-New York City FC -> new-york-city-fc.png
-Portland Timbers -> portland-timbers.png
-Columbus Crew -> columbus-crew.png
-Philadelphia Union -> philadelphia-union.png
-Nashville SC -> nashville-sc.png
-FC Cincinnati -> fc-cincinnati.png
-Orlando City -> orlando-city.png
-Toronto FC -> toronto-fc.png
-Vancouver Whitecaps -> vancouver-whitecaps.png
-CF Montréal -> cf-montreal.png
-Deportivo Saprissa -> deportivo-saprissa.png
+LA Galaxy -> la_galaxy.png
+Los Angeles FC -> los_angeles_fc.png
+Inter Miami -> inter_miami.png
+Seattle Sounders -> seattle_sounders.png
+Atlanta United -> atlanta_united.png
+New York City FC -> new_york_city_fc.png
+Portland Timbers -> portland_timbers.png
+Columbus Crew -> columbus_crew.png
+Philadelphia Union -> philadelphia_union.png
+Nashville SC -> nashville_sc.png
+FC Cincinnati -> fc_cincinnati.png
+Orlando City -> orlando_city.png
+Toronto FC -> toronto_fc.png
+Vancouver Whitecaps -> vancouver_whitecaps.png
+CF Montréal -> cf_montreal.png
+Deportivo Saprissa -> deportivo_saprissa.png
 Alajuelense -> alajuelense.png
 Herediano -> herediano.png
-CD Olimpia -> cd-olimpia.png
+CD Olimpia -> cd_olimpia.png
 Motagua -> motagua.png
 Comunicaciones -> comunicaciones.png
 Municipal -> municipal.png
-Tauro FC -> tauro-fc.png
-Alianza FC -> alianza-fc.png
-Kashima Antlers -> kashima-antlers.png
-Urawa Red Diamonds -> urawa-red-diamonds.png
-Yokohama F. Marinos -> yokohama-f-marinos.png
-Vissel Kobe -> vissel-kobe.png
-Gamba Osaka -> gamba-osaka.png
-Kawasaki Frontale -> kawasaki-frontale.png
-Jeonbuk Hyundai -> jeonbuk-hyundai.png
-Ulsan HD -> ulsan-hd.png
-Pohang Steelers -> pohang-steelers.png
-FC Seoul -> fc-seoul.png
-Suwon Samsung -> suwon-samsung.png
-Al-Hilal -> al-hilal.png
-Al-Nassr -> al-nassr.png
-Al-Ittihad -> al-ittihad.png
-Al-Ahli Saudí -> al-ahli-saudi.png
-Al-Shabab -> al-shabab.png
+Tauro FC -> tauro_fc.png
+Alianza FC -> alianza_fc.png
+Kashima Antlers -> kashima_antlers.png
+Urawa Red Diamonds -> urawa_red_diamonds.png
+Yokohama F. Marinos -> yokohama_f-marinos.png
+Vissel Kobe -> vissel_kobe.png
+Gamba Osaka -> gamba_osaka.png
+Kawasaki Frontale -> kawasaki_frontale.png
+Jeonbuk Hyundai -> jeonbuk_hyundai.png
+Ulsan HD -> ulsan_hd.png
+Pohang Steelers -> pohang_steelers.png
+FC Seoul -> fc_seoul.png
+Suwon Samsung -> suwon_samsung.png
+Al-Hilal -> al_hilal.png
+Al-Nassr -> al_nassr.png
+Al-Ittihad -> al_ittihad.png
+Al-Ahli Saudí -> al_ahli_saudi.png
+Al-Shabab -> al_shabab.png
 Persepolis -> persepolis.png
 Esteghlal -> esteghlal.png
 Sepahan -> sepahan.png
-Al-Ain -> al-ain.png
-Al-Wasl -> al-wasl.png
-Shabab Al-Ahli -> shabab-al-ahli.png
-Al-Sadd -> al-sadd.png
-Al-Duhail -> al-duhail.png
-Al-Gharafa -> al-gharafa.png
-Melbourne City -> melbourne-city.png
-Sydney FC -> sydney-fc.png
-Melbourne Victory -> melbourne-victory.png
-Shanghai Port -> shanghai-port.png
-Shandong Taishan -> shandong-taishan.png
-Beijing Guoan -> beijing-guoan.png
+Al-Ain -> al_ain.png
+Al-Wasl -> al_wasl.png
+Shabab Al-Ahli -> shabab_al_ahli.png
+Al-Sadd -> al_sadd.png
+Al-Duhail -> al_duhail.png
+Al-Gharafa -> al_gharafa.png
+Melbourne City -> melbourne_city.png
+Sydney FC -> sydney_fc.png
+Melbourne Victory -> melbourne_victory.png
+Shanghai Port -> shanghai_port.png
+Shandong Taishan -> shandong_taishan.png
+Beijing Guoan -> beijing_guoan.png
 Pakhtakor -> pakhtakor.png
 Bunyodkor -> bunyodkor.png
-Buriram United -> buriram-united.png
+Buriram United -> buriram_united.png
 Al Ahly -> al-ahly.png
 Zamalek -> zamalek.png
-Pyramids FC -> pyramids-fc.png
-Wydad Casablanca -> wydad-casablanca.png
-Raja Casablanca -> raja-casablanca.png
-RS Berkane -> rs-berkane.png
-FAR Rabat -> far-rabat.png
-Espérance de Tunis -> esperance-de-tunis.png
-Étoile du Sahel -> etoile-du-sahel.png
-Club Africain -> club-africain.png
-CS Sfaxien -> cs-sfaxien.png
-CR Belouizdad -> cr-belouizdad.png
-JS Kabylie -> js-kabylie.png
-MC Alger -> mc-alger.png
-Mamelodi Sundowns -> mamelodi-sundowns.png
-Orlando Pirates -> orlando-pirates.png
-Kaizer Chiefs -> kaizer-chiefs.png
-Cape Town City -> cape-town-city.png
+Pyramids FC -> pyramids_fc.png
+Wydad Casablanca -> wydad_casablanca.png
+Raja Casablanca -> raja_casablanca.png
+RS Berkane -> rs_berkane.png
+FAR Rabat -> far_rabat.png
+Espérance de Tunis -> esperance_de_tunis.png
+Étoile du Sahel -> etoile_du_sahel.png
+Club Africain -> club_africain.png
+CS Sfaxien -> cs_sfaxien.png
+CR Belouizdad -> cr_belouizdad.png
+JS Kabylie -> js_kabylie.png
+MC Alger -> mc_alger.png
+Mamelodi Sundowns -> mamelodi_sundowns.png
+Orlando Pirates -> orlando_pirates.png
+Kaizer Chiefs -> kaizer_chiefs.png
+Cape Town City -> cape_town_city.png
 Enyimba -> enyimba.png
-Rivers United -> rivers-united.png
-Remo Stars -> remo-stars.png
-Asante Kotoko -> asante-kotoko.png
-Hearts of Oak -> hearts-of-oak.png
-TP Mazembe -> tp-mazembe.png
-AS Vita Club -> as-vita-club.png
-Coton Sport -> coton-sport.png
+Rivers United -> rivers_united.png
+Remo Stars -> remo_stars.png
+Asante Kotoko -> asante_kotoko.png
+Hearts of Oak -> hearts_of_oak.png
+TP Mazembe -> tp_mazembe.png
+AS Vita Club -> as_vita_club.png
+Coton Sport -> coton_sport.png
 Jaraaf -> jaraaf.png
-Teungueth FC -> teungueth-fc.png
-ASEC Mimosas -> asec-mimosas.png
+Teungueth FC -> teungueth_fc.png
+ASEC Mimosas -> asec_mimosas.png
 Africa Sports -> africa-sports.png
 Petro de Luanda -> petro-de-luanda.png
 Zesco United -> zesco-united.png
