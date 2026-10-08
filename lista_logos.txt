@@ -4,19 +4,19 @@ Espanyol -> Espanyol.png
 Real Madrid -> real_madrid.png
 FC Barcelona -> fc_barcelona.png
 Atlético de Madrid -> atletico_de_madrid.png
-Sevilla -> sevilla_fc.png
-Valencia -> valencia_Cf.png
-Villarreal -> villareal_Cf.png
-Girona -> girona_fc.png
-Celta de Vigo -> RC_celta_vigo.png
-Osasuna -> CA_Osasuna.png
-Getafe -> Getafe_CF.png
+Sevilla -> sevilla.png
+Valencia -> valencia.png
+Villarreal -> villareal.png
+Girona -> girona.png
+Celta de Vigo -> celta_vigo.png
+Osasuna -> osasuna.png
+Getafe -> getafe.png
 Athletic Club -> athletic_club.png
 Real Zaragoza -> real_zaragoza.png
-Rayo Vallecano -> Rayo_Vallecano.png
-Mallorca -> RCD_Mallorca.png
-Elche -> elche_cf.png
-Levante -> levante_ud.png
+Rayo Vallecano -> rayo_vallecano.png
+Mallorca -> mallorca.png
+Elche -> elche.png
+Levante -> levante.png
 Deportivo La Coruña -> deportivo_la_coruna.png
 Sporting de Gijón -> sporting_de_gijon.png
 Racing de Santander -> racing_de_santander.png
