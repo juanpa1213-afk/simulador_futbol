@@ -718,9 +718,14 @@ document.getElementById('chg').onclick=showMenu;
 // Coloca las imágenes en la carpeta "teams" junto a este HTML.
 // Nombre por defecto: nombre del club en minúsculas, sin tildes y con guiones: "Real Madrid" -> teams/real-madrid.png
 // Se prueban las extensiones de LOGO_EXT en orden. Si un archivo se llama distinto, agrégalo en LOGOS: {"Real Madrid":"rma.png"}
-const LOGO_DIR='teams/',LOGO_EXT=['png','svg','webp','jpg'],LOGOS={},LG={};
+const LOGO_DIRS=['teams/','imagenes/'],LOGO_EXT=['png','svg','webp','jpg'],LOGOS={},LG={};
 const slug=n=>n.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
-const lgCands=n=>(LOGOS[n]?[LOGO_DIR+LOGOS[n]]:[]).concat(LOGO_EXT.map(e=>LOGO_DIR+slug(n)+'.'+e));
+const lgCands=n=>{
+  const out=[];
+  if(LOGOS[n])LOGO_DIRS.forEach(d=>out.push(d+LOGOS[n]));            // nombre personalizado, en ambas carpetas
+  LOGO_DIRS.forEach(d=>LOGO_EXT.forEach(e=>out.push(d+slug(n)+'.'+e))); // nombre por defecto, en ambas carpetas
+  return out;
+};
 function shield(n){const t=TL[n];if(!t)return '';return `<span class="lg sh" style="background:${t.c1};border-color:${t.c2};color:${lum(t.c1)>.62?'#111':'#fff'}">${esc(t.code.slice(0,3))}</span>`}
 function logo(n){
   if(!TL[n])return '';
