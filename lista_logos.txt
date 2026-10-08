@@ -8,7 +8,7 @@ Sevilla -> sevilla.png
 Valencia -> valencia.png
 Villarreal -> villareal.png
 Girona -> girona.png
-Celta de Vigo -> celta_vigo.png
+Celta de Vigo -> celta_de_vigo.png
 Osasuna -> osasuna.png
 Getafe -> getafe.png
 Athletic Club -> athletic_club.png
