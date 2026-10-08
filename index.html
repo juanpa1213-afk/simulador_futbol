@@ -721,10 +721,11 @@ document.getElementById('chg').onclick=showMenu;
 const LOGO_DIRS=['teams/','imagenes/'],LOGO_EXT=['png','svg','webp','jpg'],LOGOS={},LG={};
 const slug=n=>n.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
 const lgCands=n=>{
-  const out=[];
-  if(LOGOS[n])LOGO_DIRS.forEach(d=>out.push(d+LOGOS[n]));            // nombre personalizado, en ambas carpetas
-  LOGO_DIRS.forEach(d=>LOGO_EXT.forEach(e=>out.push(d+slug(n)+'.'+e))); // nombre por defecto, en ambas carpetas
+  const out=[],s=slug(n),vars=[s,s.replace(/-/g,'_'),n.toLowerCase(),n];
+  if(LOGOS[n])LOGO_DIRS.forEach(d=>out.push(d+LOGOS[n]));
+  LOGO_DIRS.forEach(d=>vars.forEach(v=>LOGO_EXT.forEach(e=>out.push(d+encodeURIComponent(v)+'.'+e))));
   return out;
+};
 };
 function shield(n){const t=TL[n];if(!t)return '';return `<span class="lg sh" style="background:${t.c1};border-color:${t.c2};color:${lum(t.c1)>.62?'#111':'#fff'}">${esc(t.code.slice(0,3))}</span>`}
 function logo(n){
