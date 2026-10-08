@@ -11,7 +11,7 @@ Girona -> girona_fc.png
 Celta de Vigo -> RC_celta_vigo.png
 Osasuna -> CA_Osasuna.png
 Getafe -> Getafe_CF.png
-Athletic Club -> Athletic_Club.png
+Athletic Club -> athletic_club.png
 Real Zaragoza -> real_zaragoza.png
 Rayo Vallecano -> Rayo_Vallecano.png
 Mallorca -> RCD_Mallorca.png
