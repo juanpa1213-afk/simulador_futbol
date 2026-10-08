@@ -1,5 +1,5 @@
 Nombre que debe tener cada archivo dentro de la carpeta "teams" (png, svg, webp o jpg)
-
+Espanyol -> Espanyol.png
 Real Madrid -> real-madrid.png
 FC Barcelona -> fc-barcelona.png
 Atlético de Madrid -> atletico-de-madrid.png
