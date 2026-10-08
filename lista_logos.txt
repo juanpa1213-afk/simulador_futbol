@@ -6,7 +6,7 @@ FC Barcelona -> fc_barcelona.png
 Atlético de Madrid -> atletico_de_madrid.png
 Sevilla -> sevilla.png
 Valencia -> valencia.png
-Athletic Club -> Athletic-Club.png
+Athletic Club -> Athletic_Club.png
 Real Zaragoza -> real-zaragoza.png
 Deportivo La Coruña -> deportivo-la-coruna.png
 Sporting de Gijón -> sporting-de-gijon.png
